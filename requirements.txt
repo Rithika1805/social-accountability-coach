@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+python-telegram-bot==21.*
+pydantic>=2
+python-dotenv
+SQLAlchemy>=2
+psycopg[binary]
+httpx
